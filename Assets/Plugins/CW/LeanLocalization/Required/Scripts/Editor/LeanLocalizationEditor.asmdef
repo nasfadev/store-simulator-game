@@ -1,0 +1,17 @@
+{
+    "name": "LeanLocalizationEditor",
+    "references": [
+        "LeanCommon",
+        "LeanLocalization",
+        "CW.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

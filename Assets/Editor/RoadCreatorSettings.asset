@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff76e7b103298b34885db96a734fa7ed, type: 3}
+  m_Name: RoadCreatorSettings
+  m_EditorClassIdentifier: 
+  anchorPointSize: 1.5
+  controlPointSize: 1.5
+  selectedObjectArrowSize: 4.5
+  pointShape: 0
+  scalePointsWhenZoomed: 0
+  exposeCurveKeysToEditor: 1
+  prefabExportLocation: Assets/
+  roadOptionsIconSize: 40
+  roadGuidelinesLength: 10
+  roadGuidelinesRenderDistance: 60
+  roadGuidelinesSnapDistance: 0.5
+  defaultLaneMaterials:
+  - {fileID: 0}
+  - {fileID: 0}
+  defaultIntersectionMaterials:
+  - {fileID: 0}
+  - {fileID: 0}
+  defaultIntersectionMainRoadMaterial: {fileID: 0}
+  defaultIntersectionCrosswalkMaterial: {fileID: 0}
+  defaultStartPrefab: {fileID: 0}
+  defaultMainPrefab: {fileID: 0}
+  defaultEndPrefab: {fileID: 0}
+  leftTurnMarking: {fileID: 0}
+  forwardTurnMarking: {fileID: 0}
+  rightTurnMarking: {fileID: 0}
+  leftForwardTurnMarking: {fileID: 0}
+  rightForwardTurnMarking: {fileID: 0}
+  leftRightTurnMarking: {fileID: 0}
+  leftRightForwardTurnMarking: {fileID: 0}
+  anchorPointColour: {r: 1, g: 0, b: 0, a: 0.5}
+  selectedAnchorPointColour: {r: 0.75, g: 0, b: 0, a: 0.5}
+  controlPointColour: {r: 1, g: 1, b: 0, a: 0.5}
+  roadGuidelinesColour: {r: 0, g: 0.4, b: 0, a: 1}
+  selectedObjectColour: {r: 0, g: 0, b: 1, a: 0.5}
+  selectedPointColour: {r: 0, g: 1, b: 1, a: 0.5}
